@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Grand Luxury Hotel",
+        "location": "New York, USA",
+        "rooms": 50,
+        "price_per_night": 200
+    },
+    {
+        "id": 2,
+        "name": "Seaside Resort",
+        "location": "Malibu, USA",
+        "rooms": 30,
+        "price_per_night": 300
+    },
+    {
+        "id": 3,
+        "name": "Mountain Retreat",
+        "location": "Aspen, USA",
+        "rooms": 20,
+        "price_per_night": 250
+    },
+    {
+        "id": 4,
+        "name": "City Center Hotel",
+        "location": "London, UK",
+        "rooms": 100,
+        "price_per_night": 150
+    },
+    {
+        "id": 5,
+        "name": "Desert Oasis Lodge",
+        "location": "Dubai, UAE",
+        "rooms": 40,
+        "price_per_night": 400
+    }
+]
